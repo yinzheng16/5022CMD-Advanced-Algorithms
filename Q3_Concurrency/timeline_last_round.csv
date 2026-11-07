@@ -1,0 +1,7 @@
+mode,n,start_ns,end_ns
+with threads,35,0,3901731800
+with threads,38,34534200,12312031800
+with threads,40,143067700,21589900600
+without threads,35,0,1353766800
+without threads,38,1353768100,6983348600
+without threads,40,6983354400,21562593700
